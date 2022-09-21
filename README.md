@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RudrakshSugandhi
 - 👀 I’m interested in Machine learning, Deep learning
 - 📫 How to reach me rudraksh.sugandhi1@gmail.com
+- 📘 Kaggle: https://www.kaggle.com/rudraksh25
 - 🎸 When I am not doing ML, Will be found playing with strings of Guitar
 
 <!---
